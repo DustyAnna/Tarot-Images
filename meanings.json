@@ -1,0 +1,314 @@
+{
+  "The Fool": {
+    "upright": "A soul on the edge of a great adventure, unburdened by fear or past regret. The Fool carries only what the heart needs — wonder, trust, and an open spirit. Something new is beginning, and the universe is asking you to take that first step even without a map.",
+    "reversed": "Hesitation born of fear, or recklessness born of ignoring wise counsel. Look before you leap — there may be something you haven't fully considered. Alternatively, you may be holding yourself back from a beginning that is long overdue."
+  },
+  "The Magician": {
+    "upright": "All the tools you need are already in your hands. The Magician channels will into form — thought becomes action, vision becomes reality. This is a moment of real personal power. You have the skill, the focus, and the resources. Use them.",
+    "reversed": "Talents going unused, or worse — being misused. There may be manipulation at play, either from someone around you or a shadow aspect of yourself. Reconnect with your authentic intentions before moving forward."
+  },
+  "The High Priestess": {
+    "upright": "Something is not yet ready to be spoken aloud. The High Priestess guards the threshold between the known and the hidden, and she is asking you to be still and listen inward. Your intuition holds the answer — not logic, not advice from others. Trust the quiet knowing.",
+    "reversed": "Secrets withheld, intuition suppressed, or a refusal to look at what is right in front of you. You may be ignoring an inner voice that has been trying to reach you. Create space for silence and let what has been buried rise to the surface."
+  },
+  "The Empress": {
+    "upright": "Abundance, creative fertility, and the nourishing power of nature. The Empress is sensual, generous, and deeply connected to the cycles of growth. Something in your life is ready to bloom — a relationship, a creative project, a new phase of abundance. Let yourself receive.",
+    "reversed": "Creative blocks, neglect of self-care, or a relationship to abundance that has become distorted. You may be giving so much to others that you have left nothing for yourself. Return to the body, to nature, to pleasure — not as indulgence but as restoration."
+  },
+  "The Emperor": {
+    "upright": "Structure, authority, and the power of disciplined will. The Emperor has built something lasting through patience and clear boundaries. This card calls you toward leadership, order, and taking responsibility for the foundations of your life. Stability is available to you now.",
+    "reversed": "Rigidity, control issues, or an authority figure who uses power poorly. You may be either too domineering or too easily dominated. Examine where rules have become cages, or where a lack of structure is causing chaos."
+  },
+  "The Hierophant": {
+    "upright": "Tradition, shared wisdom, and the comfort of belonging to something larger than yourself. The Hierophant passes down what has proven true across generations. This may be a time to honor established paths, seek a mentor, or commit to a community or belief system.",
+    "reversed": "Dogma, conformity for its own sake, or spiritual institutions that no longer serve you. You may be outgrowing a tradition or questioning what you were taught. This is not a failure — it is an invitation to find your own truth."
+  },
+  "The Lovers": {
+    "upright": "A choice made from the heart, a union of deep alignment. The Lovers is not only about romantic love — it speaks to any meaningful connection or decision that requires you to choose your values over convenience. When you choose in alignment with your truest self, you choose love.",
+    "reversed": "Misalignment, inner conflict, or a relationship strained by dishonesty or avoidance. A choice is being avoided or made for the wrong reasons. Come back to what you truly value before committing to a path."
+  },
+  "The Chariot": {
+    "upright": "Victory through focused will and disciplined determination. The Chariot moves forward not by force alone but by mastering opposing forces within — fear and courage, doubt and confidence. You have what it takes to break through. Hold the reins firmly and keep moving.",
+    "reversed": "Loss of direction, scattered energy, or aggression without purpose. You may be pushing too hard in the wrong direction, or feeling pulled apart by competing desires. Reestablish your focus before charging forward again."
+  },
+  "Strength": {
+    "upright": "True strength is patient, compassionate, and unafraid of what is wild within us. This card speaks not of brute force but of the quiet power that comes from inner courage and self-mastery. You can face what frightens you — gently, with an open hand rather than a clenched fist.",
+    "reversed": "Self-doubt, fear masquerading as aggression, or a loss of faith in your own resilience. You may be either suppressing powerful emotions or being overwhelmed by them. The invitation is to befriend rather than battle what lives inside you."
+  },
+  "The Hermit": {
+    "upright": "A period of intentional solitude, inner searching, and the slow accumulation of wisdom. The Hermit does not withdraw from life in defeat — he climbs to higher ground to see more clearly. This is a time to look inward, to slow down, and to trust the light you already carry.",
+    "reversed": "Excessive isolation, loneliness that has become a hiding place, or a refusal to share hard-won wisdom with those who need it. You may have spent enough time alone — it may be time to return to the world and bring your light back with you."
+  },
+  "Wheel Of Fortune": {
+    "upright": "The great turning — cycles completing, fate in motion, the universe rearranging itself in ways beyond your control. What goes down will rise again. What has been stuck is beginning to move. Align yourself with the flow of change rather than resisting it.",
+    "reversed": "Resistance to change, bad luck that feels relentless, or a cycle you keep repeating because its lesson hasn't been integrated yet. Examine where you are fighting the turning of the wheel rather than learning from it."
+  },
+  "Justice": {
+    "upright": "Truth, accountability, and the elegant balance of cause and effect. Justice is not about punishment — it is about clarity. What has been done will be measured. What is fair will prevail. This is a time to act with integrity and to trust that the scales are calibrated correctly.",
+    "reversed": "Injustice, imbalance, or a refusal to take responsibility for one's actions. You may be avoiding an honest reckoning, or you may be on the receiving end of a situation that is genuinely unfair. Either way, truth will eventually surface."
+  },
+  "The Hanged Man": {
+    "upright": "Surrender, suspension, and the profound wisdom that comes from seeing the world upside down. The Hanged Man is not a victim — he chose to hang there, and in doing so he sees what others cannot. A pause is required. Let go of the need to act and let understanding come to you.",
+    "reversed": "Martyrdom, unnecessary sacrifice, or a suspension that has gone on too long. You may be waiting for permission that will never come, or sacrificing yourself for something that doesn't require it. What would happen if you simply let yourself down from the tree?"
+  },
+  "Death": {
+    "upright": "Not an ending but a transformation — the shedding of what has outlived its purpose so that something truer can take its place. Death asks you to release a version of yourself, a situation, or a belief that is no longer alive. What feels like loss is also liberation.",
+    "reversed": "Resistance to necessary change, clinging to the past, or a transition that has stalled. You may be refusing to let something die that has long since stopped living. The longer the resistance, the harder the eventual release. What are you holding on to?"
+  },
+  "Temperance": {
+    "upright": "Patience, balance, and the alchemy of blending opposites into something whole. Temperance pours and repours, finding the perfect measure. This is a card of healing, moderation, and the slow steady work of integration. You are being asked to find your middle path.",
+    "reversed": "Excess, imbalance, or a loss of patience that is pushing things off course. Something in your life has gone too far in one direction. Examine where moderation has been abandoned — in habits, in relationships, in how you treat yourself."
+  },
+  "The Devil": {
+    "upright": "The chains that bind are often ones we have placed on ourselves. The Devil illuminates our shadow — the patterns, addictions, and illusions of powerlessness that keep us small. He does not imprison; he shows us where we believe we are imprisoned. The first step to freedom is seeing the chain.",
+    "reversed": "Breaking free from a binding pattern, or the beginning of releasing an addiction, toxic relationship, or limiting belief. You are starting to see through an illusion that has held you. The chains are loosening — keep going."
+  },
+  "The Tower": {
+    "upright": "A sudden, necessary disruption — the collapse of something built on false foundations. The Tower strikes fast and without warning, but what it destroys was never truly sound. This is not punishment; it is revelation. What remains after the lightning is what was always real.",
+    "reversed": "A disaster narrowly avoided, or a necessary collapse that is being resisted or delayed. You may be holding up walls that want to come down. Sometimes the reversed Tower asks: what are you protecting that might be better released?"
+  },
+  "The Star": {
+    "upright": "After the storm, hope. The Star pours her healing waters freely, renewing faith in yourself and in the future. This is a card of gentle restoration, inspiration, and the quiet certainty that you are exactly where you need to be. Let yourself be healed. Let yourself believe again.",
+    "reversed": "Despair, loss of faith, or hope that has dimmed to the point of invisibility. You may be struggling to believe that things can get better. The star is still there — it is the clouds that are thick, not the light that has gone out. Seek small signs of beauty."
+  },
+  "The Moon": {
+    "upright": "The realm of dreams, illusion, and the deep unconscious. The Moon illuminates nothing clearly — she distorts, she reflects, she reveals through symbol and shadow. Anxiety may be high, and things are not what they seem. Trust your instincts over appearances, and pay attention to your dreams.",
+    "reversed": "Confusion lifting, illusions dissolving, or fears beginning to lose their grip. What was hidden is becoming visible. You may be emerging from a period of anxiety or self-deception into greater clarity. The fog is thinning."
+  },
+  "The Sun": {
+    "upright": "Joy, vitality, clarity, and the pure pleasure of being alive. The Sun holds nothing back — it shines on everything equally, warming and illuminating. This is a card of genuine happiness, confidence, and success that comes from authenticity. Let yourself be seen. Let yourself be glad.",
+    "reversed": "Joy that is blocked or dimmed — by depression, by circumstance, or by a belief that happiness isn't available to you. The sun hasn't gone anywhere; something is casting a shadow. What stands between you and your own warmth?"
+  },
+  "Judgement": {
+    "upright": "A profound awakening — a call rising from deep within to become more fully who you are. Judgement is not about being judged by others but about hearing your own soul's summons and rising to meet it. Something is asking you to shed the old story and step into a truer version of yourself.",
+    "reversed": "Self-doubt, fear of judgment, or a refusal to hear the inner call to change. You may be too harsh a judge of yourself, or you may be ignoring a summons that keeps getting louder. The call will not stop. What would it mean to finally answer it?"
+  },
+  "The World": {
+    "upright": "Completion, wholeness, and the deep satisfaction of a cycle fully lived. The World dancer moves freely within her wreath — she has integrated all of her experience and arrived at a place of genuine fulfillment. Celebrate what has been accomplished. A chapter is complete.",
+    "reversed": "An ending delayed, loose threads unresolved, or success that feels hollow because something essential was left undone. You may be close to completion but unable to fully arrive. What small thing remains that, once tended to, would allow you to truly finish?"
+  },
+  "Ace of Cups": {
+    "upright": "The pure seed of emotional new beginnings — love offered freely, intuition awakened, the heart cracked open in the best possible way. Something is welling up inside you, clean and undiluted. A new relationship, creative flow, or spiritual connection is available. Open your hands and receive.",
+    "reversed": "Emotional repression, a gift of the heart refused, or creative and spiritual flow that is blocked. You may be protecting yourself so carefully that you are also keeping out what you most need. What would it cost to let one wall come down?"
+  },
+  "Two of Cups": {
+    "upright": "A beautiful meeting of equals — mutual recognition, shared feeling, the beginning of a meaningful bond. This card speaks of partnership, attraction, and the magic that happens when two people truly see each other. Whether romantic or otherwise, a connection is forming that deserves to be honored.",
+    "reversed": "Disharmony, imbalance in a relationship, or a connection that has lost its reciprocity. One person may be giving more than they receive. Examine the dynamics honestly and ask whether the balance can be restored."
+  },
+  "Three of Cups": {
+    "upright": "Celebration, friendship, and the joy of community. The Three of Cups overflows with laughter, shared victories, and the warmth of people who genuinely delight in each other. This is a time to gather, to toast what has been accomplished, and to let yourself be held by your people.",
+    "reversed": "Excess, gossip within a social circle, or celebration that has tipped into something hollow or harmful. You may be surrounding yourself with people who don't truly support you, or numbing yourself with social activity rather than tending to what's underneath."
+  },
+  "Four of Cups": {
+    "upright": "Contemplation, withdrawal, and the particular restlessness of someone who has what they need but cannot feel it. A new opportunity is being offered — the cup extended from the clouds — but you may be too inward-turned to notice. This is a call to look up from your navel and see what is waiting.",
+    "reversed": "Emerging from apathy, a renewed sense of motivation, or finally accepting what has been offered. You are beginning to stir. Something that felt meaningless is showing new facets. Let yourself be interested again."
+  },
+  "Five of Cups": {
+    "upright": "Grief, loss, and the tendency to fix our eyes on what has spilled rather than what remains. Three cups have fallen but two still stand. This card honors the reality of sorrow — it does not rush you past it — but it gently reminds you that not everything has been lost. Turn around when you are ready.",
+    "reversed": "Moving through grief, acceptance dawning, or returning from a period of sorrow to find life still waiting. You are beginning to see the cups that remain standing. Recovery is not betrayal of what was lost — it is how you honor it."
+  },
+  "Six of Cups": {
+    "upright": "Nostalgia, innocence, and the sweetness of returning to simpler times. The Six of Cups carries the scent of childhood — happy memories, old friends, the places that first shaped your heart. This card may bring a reunion, a return to an old passion, or simply the comfort of remembering who you were before life got complicated.",
+    "reversed": "Living too much in the past, rose-tinted nostalgia that prevents you from being present, or unresolved childhood wounds that are surfacing. The past has gifts for you but it is not a home. Receive the sweetness and then return to now."
+  },
+  "Seven of Cups": {
+    "upright": "A dazzling proliferation of choices, fantasies, and possibilities — some of which are illusions. The Seven of Cups warns of wishful thinking, of becoming so enchanted by options that you never choose any of them. Imagination is a gift. But at some point, a dream must be chosen and made real.",
+    "reversed": "Clarity emerging from confusion, illusions dissolving, or finally making a decision after a long period of indecision. The fog is lifting. You are beginning to see which cups hold something real and which are empty fantasy. Trust that clarity and act on it."
+  },
+  "Eight of Cups": {
+    "upright": "The quiet courage of walking away from something that no longer nourishes the soul. The figure in this card leaves by night — not in anger but in sorrow, knowing that to stay would be to slowly disappear. Sometimes love means releasing what you have built in order to seek what your spirit actually needs.",
+    "reversed": "Fear of leaving, returning to something you had already outgrown, or abandonment without the inner work. You may be staying in a situation out of fear rather than genuine commitment — or leaving before you've understood why. The question is: what are you walking toward?"
+  },
+  "Nine of Cups": {
+    "upright": "The wish card — deep satisfaction, emotional fulfillment, and the pleasure of having what you wanted. The Nine of Cups asks you to sit with contentment rather than immediately reaching for the next thing. Something has worked out. Let yourself feel that fully before moving on.",
+    "reversed": "Satisfaction that feels hollow, wishes granted in ways that disappoint, or a tendency to never feel like enough is enough. You may have achieved what you thought you wanted only to find it isn't what you actually needed. What would genuine fulfillment look like?"
+  },
+  "Ten of Cups": {
+    "upright": "Lasting emotional fulfillment, a loving home, and the deep happiness of relationships that have grown into something truly sustaining. The Ten of Cups is the heart's completion — not just momentary joy but the quiet, lasting kind that comes from genuine connection and shared life. This is what it was all for.",
+    "reversed": "Conflict beneath a seemingly harmonious surface, family dysfunction, or happiness that looks perfect from the outside but feels fractured within. Tend to what is actually happening in your closest relationships rather than what you wish were true."
+  },
+  "Page of Cups": {
+    "upright": "A message from the heart — unexpected, a little whimsical, full of emotional and creative possibility. The Page of Cups arrives with a fish in his cup and a willingness to be surprised by his own inner life. Something tender and imaginative is emerging. Let it be young and imperfect and wonderful.",
+    "reversed": "Emotional immaturity, creative ideas that never leave the daydream stage, or a sensitivity so fragile it becomes difficult to function. You may be avoiding the vulnerability that real emotional expression requires. Let what is tender in you speak, even awkwardly."
+  },
+  "Knight of Cups": {
+    "upright": "A romantic, idealistic soul riding toward what the heart most desires. The Knight of Cups follows feeling with beautiful intensity — he is charming, creative, and deeply sincere. An invitation, a proposal, or a creative calling is arriving. Ride out to meet it with an open heart.",
+    "reversed": "Moodiness, emotional manipulation, or idealism so extreme it becomes impractical. You may be in love with an idea rather than a reality, or swept up in fantasy at the expense of honest feeling. Check that your heart's compass is pointed toward something true."
+  },
+  "Queen of Cups": {
+    "upright": "Deep empathy, emotional intelligence, and an intuition so refined it borders on the psychic. The Queen of Cups holds the full weight of feeling without being swept away by it — she is the still water, not the storm. Her gift is presence: she truly listens, truly feels, truly knows.",
+    "reversed": "Emotional overwhelm, co-dependency, or empathy that has become enmeshment. You may be absorbing others' feelings at the expense of your own clarity, or using emotional sensitivity as a way to avoid direct engagement. Tend to your own emotional boundaries."
+  },
+  "King of Cups": {
+    "upright": "Emotional mastery — the capacity to feel deeply and still lead with wisdom and compassion. The King of Cups has weathered storms and emerged not hardened but refined. He is the therapist, the wise counselor, the father who knows when to hold on and when to let go. Bring emotional maturity to whatever you are facing.",
+    "reversed": "Emotional manipulation, moodiness used as control, or the suppression of feelings beneath a calm surface that is close to cracking. A person in your life — or an aspect of yourself — is struggling to integrate emotional depth with outward stability. Honesty and professional support may both be warranted."
+  },
+  "Ace of Wands": {
+    "upright": "The pure spark of creative fire — inspiration arriving like lightning, the universe tapping you on the shoulder and saying: begin. The Ace of Wands is raw creative potential, the first breath of a new passion or project. Something wants to be born through you. Don't wait until you're ready — you never will be.",
+    "reversed": "Creative blocks, false starts, or a spark that keeps flickering out before it catches. You may be sitting on an idea too long, waiting for perfect conditions that won't come. Or the timing genuinely isn't right yet. Which is it? Your gut knows."
+  },
+  "Two of Wands": {
+    "upright": "Standing at the threshold of a larger world, holding the future in your hands. You have built something solid and now you are being asked to dream bigger. The Two of Wands is the moment of vision before the journey — planning, considering horizons, daring to want more than the familiar.",
+    "reversed": "Fear of leaving what is known, plans that stay perpetually in the planning stage, or a restlessness that has no direction. You may be hesitating at the threshold for so long that the opportunity passes. What would it take to actually step through the door?"
+  },
+  "Three of Wands": {
+    "upright": "Your ships have gone out and now you wait on the clifftop, scanning the horizon. The Three of Wands speaks of bold ventures already launched, of foresight rewarded, of expansion that is underway. What you set in motion is working. Now is the time to think about what comes next.",
+    "reversed": "Delays in what you've been waiting for, plans hitting unexpected obstacles, or a return to the drawing board. Something isn't unfolding on the timeline you expected. Use this pause to refine rather than abandon what you've built."
+  },
+  "Four of Wands": {
+    "upright": "Celebration, homecoming, and the joy of a milestone reached. The Four of Wands invites you to pause your striving and honor how far you have come. A foundation has been built. A threshold has been crossed. Gather the people you love, mark this moment, and let yourself feel the sweetness of arrival.",
+    "reversed": "A celebration disrupted, instability in home or family, or a milestone that doesn't feel as satisfying as expected. What should be a joyful moment is shadowed by something unresolved. Tend to the underlying tension before it grows."
+  },
+  "Five of Wands": {
+    "upright": "Conflict, competition, and the productive friction of opposing ideas. The Five of Wands is not necessarily harmful — sometimes the struggle clarifies, strengthens, and reveals who has what it takes. But examine whether this fight is generative or simply exhausting. Not every battle deserves your energy.",
+    "reversed": "Conflict avoided, competition dropping away, or inner struggle finally beginning to resolve. You may be finding peace after a period of tension — or you may be suppressing conflict that still needs to be worked through. There is a difference between resolution and avoidance."
+  },
+  "Six of Wands": {
+    "upright": "Public recognition, victory, and the particular pleasure of being seen for what you have accomplished. The Six of Wands rides in on a triumph — the crowd is watching, and you have earned this moment. Accept the recognition gracefully. You worked for this. Let it land.",
+    "reversed": "A fall from grace, delayed recognition, or a victory that comes at too high a cost. You may be seeking external validation so urgently that it has become its own trap. True confidence does not require an audience."
+  },
+  "Seven of Wands": {
+    "upright": "Standing your ground when everything seems to be pushing back. The Seven of Wands holds the high ground against opposition — outnumbered but not outmatched. This is a card of persistence, of defending what you believe in, of refusing to be pushed off your position by sheer pressure.",
+    "reversed": "Exhaustion from constant defense, giving up a position that was worth holding, or realizing that what you've been defending isn't actually worth the fight. Ask honestly: is this a hill worth dying on, or have you been stubborn where flexibility would serve you better?"
+  },
+  "Eight of Wands": {
+    "upright": "Swift movement, rapid developments, and the sudden acceleration of something that has been building. The Eight of Wands arrives like a volley of arrows — fast, direct, aimed true. Things are moving now. Communication flows, travel beckons, delays lift. Hold on and keep up with the pace.",
+    "reversed": "Delays, miscommunications, or energy scattered in too many directions at once. Plans are moving slower than expected, or things feel chaotic and poorly aimed. Slow down enough to make sure your arrows are pointed at the right targets."
+  },
+  "Nine of Wands": {
+    "upright": "Weary but still standing. The Nine of Wands speaks of resilience forged in difficulty — you have been through it, and the marks show, but you have not given up. One more push is required. The end is closer than it feels. Draw on the strength that difficulty has built in you.",
+    "reversed": "Burnout, paranoia, or a stubborn refusal to accept help. You may have been fighting alone for so long that you've forgotten there are people who want to stand beside you. Alternatively, a defensive posture that once protected you is now keeping out what you need."
+  },
+  "Ten of Wands": {
+    "upright": "A heavy burden carried alone, the weight of too many responsibilities pressing down. The Ten of Wands asks: do you actually need to carry all of this? Some of what weighs you down was never yours to bear. Delegation, release, and honest assessment of what is essential — these are the medicine.",
+    "reversed": "A burden finally set down, responsibilities redistributed, or the relief of completing something demanding. You are nearing the end of a heavy period. Alternatively, this card reversed can signal complete collapse — when you've simply run out of the strength to carry it all."
+  },
+  "Page of Wands": {
+    "upright": "Enthusiastic, curious, and brimming with fresh energy — the Page of Wands has caught fire with an idea and is ready to run with it. This is the energy of exploration, of trying things just to see what happens, of not yet knowing the limits. Let yourself be this young in your approach.",
+    "reversed": "All fire and no follow-through, grand plans that evaporate, or impatience that derails promising beginnings. The spark is there but it needs tending. What would it take to stay with this idea long enough to see what it could become?"
+  },
+  "Knight of Wands": {
+    "upright": "Bold, passionate, and charging forward with magnificent confidence. The Knight of Wands is unstoppable in motion — full of charisma, daring, and the absolute conviction that where he is going is worth going. This energy is electric. Ride it. Just make sure you know where you're headed.",
+    "reversed": "Recklessness, aggression, or the spectacular crash that follows charging forward without a plan. You may be moving too fast, burning bridges in your wake, or letting passion override judgment. The energy is still an asset — it just needs direction."
+  },
+  "Queen of Wands": {
+    "upright": "Magnetic, confident, and fully inhabiting her own fire. The Queen of Wands knows who she is and doesn't shrink from it — she leads with warmth and courage in equal measure. This is a card of bold self-expression, creative authority, and the particular power of a woman who is not waiting for permission.",
+    "reversed": "Confidence curdled into self-doubt, or power expressed as domination rather than warmth. You may be dimming your own fire out of fear of how it will be received — or burning too hot in ways that scorch those around you. Reclaim the center of yourself."
+  },
+  "King of Wands": {
+    "upright": "Visionary leadership, entrepreneurial fire, and the ability to inspire others toward a bold shared goal. The King of Wands leads not from fear but from genuine passion — he has built something real and knows how to bring others along. Step into your authority. Your vision is worth following.",
+    "reversed": "Arrogance, impulsiveness in leadership, or a visionary whose fire has become controlling. The grand plan may be sound but the execution is burning people out. Check in with those around you — leadership that doesn't listen eventually leads alone."
+  },
+  "Ace of Swords": {
+    "upright": "Clarity arrives like a blade through fog — sudden, sharp, and undeniable. The Ace of Swords cuts through confusion to reveal truth. A new idea, a breakthrough in understanding, or a decision that can no longer be avoided is here. This is the moment to think clearly and speak honestly.",
+    "reversed": "Mental confusion, a truth being avoided, or a sharp idea that keeps cutting the wrong things. You may be overthinking to the point of paralysis, or using your intellect to argue yourself out of what you already know. Quiet the noise and let the clearest thought rise."
+  },
+  "Two of Swords": {
+    "upright": "A decision being held off, two options in painful balance, the blindfold of deliberate not-knowing. The Two of Swords is the moment of stalemate — you have the information but are not yet ready to use it. At some point the swords must be lowered and a choice made. What are you avoiding seeing?",
+    "reversed": "The blindfold removed, information coming to light, or a stalemate finally breaking. What was hidden is now visible and a decision can be made. This may feel like relief or like something you weren't ready for. Either way — you can see now. Act accordingly."
+  },
+  "Three of Swords": {
+    "upright": "Heartbreak, grief, and the piercing truth of loss. The Three of Swords doesn't soften what has happened — it acknowledges it fully. Pain is real. Grief deserves to be felt rather than bypassed. But this card also carries the promise that the heart that has been broken open can hold more than it could before.",
+    "reversed": "The slow release of an old wound, grief beginning to integrate, or the removal of something that was causing pain. Healing is underway, even if it is quiet. You may also be suppressing grief that still needs to move through you. Let what wants to heal do so."
+  },
+  "Four of Swords": {
+    "upright": "Rest, recovery, and the discipline of deliberate stillness. The Four of Swords is not inaction — it is the intentional pause of a warrior who knows that the body and mind need restoration before the next challenge. Give yourself permission to stop. Not forever. Just for now.",
+    "reversed": "Rest that has gone on too long, difficulty returning to activity after a period of withdrawal, or being forced back into action before you feel ready. There is a difference between healthy recovery and hiding. Which one is this?"
+  },
+  "Five of Swords": {
+    "upright": "A hollow victory — winning in a way that costs more than it gains. The Five of Swords raises the question: was it worth it? Someone has come out ahead but the air is thick with defeat and resentment. Examine whether the battle you're in is truly one you want to win, and at what cost.",
+    "reversed": "Releasing a conflict, choosing peace over being right, or the slow reconciliation after a damaging fight. You may be walking away from a battle that cannot be won — or finally accepting an apology. Sometimes the bravest move is to put down the sword."
+  },
+  "Six of Swords": {
+    "upright": "A passage from turbulence to calmer water — not triumphant, but necessary and healing. The Six of Swords is the quiet boat moving away from what has been difficult toward something easier. You may be grieving the leaving even as you recognize it was the right choice. The far shore is real.",
+    "reversed": "Unable to move on, dragging the past into the new situation, or a transition being resisted. You may have left in body but not in spirit. Something still needs to be processed before the water can actually smooth out. What are you carrying that you haven't yet set down?"
+  },
+  "Seven of Swords": {
+    "upright": "Cunning, strategy, and the sometimes-necessary art of moving carefully rather than directly. The Seven of Swords can speak of deception — your own or another's — but also of the pragmatic wisdom of knowing when to retreat, when to work quietly, and when honesty would simply be used against you.",
+    "reversed": "A deception coming to light, conscience returning, or the exhausting game of dishonesty finally catching up. Something hidden is surfacing. If you have been less than honest — with yourself or others — this is an invitation to come clean before circumstances force it."
+  },
+  "Eight of Swords": {
+    "upright": "Trapped — but only because you believe you are. The Eight of Swords shows a figure bound and blindfolded, surrounded by swords, but the ropes are loose and the swords are not as close as they feel. The prison is largely one of perception and fear. The freedom you seek is available. It begins with taking off the blindfold.",
+    "reversed": "Breaking free from a mental prison, releasing a belief that has kept you small, or emerging from a period of anxiety and powerlessness. The swords have fallen. You can move. What has kept you frozen has lost its grip — now you must choose to take a step."
+  },
+  "Nine of Swords": {
+    "upright": "The dark night of the soul — anxiety, dread, and the particular torment of a mind that will not rest. The Nine of Swords is at its worst at 3am, when every fear is amplified and every wound feels fresh. What wakes you? What won't leave you alone? These fears deserve gentle attention, not more suppression.",
+    "reversed": "The worst has passed, anxiety beginning to ease, or finally reaching out for help with mental anguish. You are moving through the darkness rather than spiraling deeper into it. If shame is part of what you carry — know that these swords cut everyone at some point. You are not alone in this."
+  },
+  "Ten of Swords": {
+    "upright": "A definitive ending — the kind that leaves no room for pretending it might still work out. The Ten of Swords is painful and absolute. But look at the sky: the darkness at the top gives way to light at the horizon. This ending, however brutal, clears the way completely. It is truly over. And that means something new can begin.",
+    "reversed": "Refusing to accept an ending, a situation that keeps ending but never quite ending, or the first faint stirrings of survival after collapse. You are beginning to rise. What has fallen cannot be rebuilt in the same form — but something new is possible now that the ground has been cleared."
+  },
+  "Page of Swords": {
+    "upright": "Quick-minded, curious, and hungry for truth — the Page of Swords wants to understand everything and isn't afraid to ask sharp questions. This energy brings fresh perspective, intellectual honesty, and the sometimes-bracing gift of saying what others are avoiding. Think clearly. Speak carefully. Observe everything.",
+    "reversed": "Gossip, mental restlessness used destructively, or a sharp tongue that wounds without intention. You may be gathering information without the wisdom to use it well, or letting intellectual energy turn into anxiety. Slow the mind enough to distinguish between insight and noise."
+  },
+  "Knight of Swords": {
+    "upright": "Charging forward on the strength of pure intellect and righteous conviction — the Knight of Swords is brilliant, fast, and absolutely certain he is right. This energy can cut through obstacles with impressive speed. The question is whether wisdom is riding alongside that certainty, or whether the horse has gotten away from the rider.",
+    "reversed": "Recklessness, arguments that burn bridges, or intellectual arrogance that prevents hearing other perspectives. You may be so convinced of your position that you've stopped listening. The sword is sharp — but even the sharpest blade needs to be aimed before it is swung."
+  },
+  "Queen of Swords": {
+    "upright": "She has known loss and has refined herself in its fire. The Queen of Swords thinks with extraordinary clarity, speaks with precision, and has no patience for self-deception — her own or anyone else's. Her gift is the truth spoken with such integrity that it lands as love rather than cruelty. Trust her discernment.",
+    "reversed": "Coldness used as armor, bitterness that has calcified into cruelty, or a sharp mind turned against the self. You may be using intellect to wall off feeling, or allowing past wounds to make you harsher than the situation calls for. Clarity and compassion are not opposites — they need each other."
+  },
+  "King of Swords": {
+    "upright": "Masterful intellect, ethical authority, and the capacity to see clearly and act justly even in complex situations. The King of Swords has disciplined his mind into a formidable instrument — not for domination but for truth. This is the energy of the wise judge, the excellent advisor, the mentor who tells you what you need to hear.",
+    "reversed": "Tyranny of the intellect, manipulation through words, or cold authority that has lost its ethical compass. Power without compassion. You may be dealing with someone who uses intelligence as a weapon — or you may need to examine whether your own certainty has hardened into rigidity."
+  },
+  "Ace of Pentacles": {
+    "upright": "A seed of material abundance — an opportunity for prosperity, security, or the physical manifestation of something you've been working toward. The Ace of Pentacles arrives as a gift from the earth: a job offer, a financial opening, a new home, a creative project with real potential. Plant this seed carefully and tend it well.",
+    "reversed": "A material opportunity missed or squandered, financial instability, or the failure to ground a promising idea in practical reality. You may have the vision but not the follow-through — or circumstances may be genuinely difficult right now. Tend to basics before reaching for more."
+  },
+  "Two of Pentacles": {
+    "upright": "The graceful juggle of competing demands — keeping multiple things in the air with ease and good humor. The Two of Pentacles speaks of adaptability, of managing the flow of money and time and energy without losing your balance. You can handle more than you think. Keep your center and stay light on your feet.",
+    "reversed": "Overwhelm, dropping balls that matter, or a juggling act that has become genuinely unsustainable. Something has to give. Look honestly at what you are trying to maintain and ask what can be set down, delegated, or let go without real loss."
+  },
+  "Three of Pentacles": {
+    "upright": "The satisfaction of skilled work done in collaboration with others. The Three of Pentacles speaks of mastery being built through practice, of talents recognized and applied, of the particular pleasure of contributing meaningfully to a shared endeavor. Your skills are valued here. Keep refining them.",
+    "reversed": "Poor teamwork, skills going unrecognized, or a refusal to learn from those with more experience. You may be working in isolation when collaboration would serve you, or struggling to receive feedback that could genuinely improve what you're building."
+  },
+  "Four of Pentacles": {
+    "upright": "Security through careful holding — the Four of Pentacles has worked hard for what it has and is not letting go lightly. There is wisdom in this: protecting resources is not the same as hoarding them. But examine whether the grip has become so tight that it is preventing growth, generosity, or change.",
+    "reversed": "Releasing financial anxiety, loosening a grip that has become constricting, or the other extreme: financial recklessness and overspending. What is your relationship with security? Is what you're holding protecting you or slowly suffocating you?"
+  },
+  "Five of Pentacles": {
+    "upright": "Financial hardship, physical struggle, and the particular loneliness of feeling left out in the cold. The Five of Pentacles is one of the harder cards — it acknowledges real material difficulty without romanticizing it. But notice the warm light in the window. Help is available. Pride may be the only thing standing between you and the door.",
+    "reversed": "Recovery from financial hardship, accepting help, or the slow return of stability after a difficult period. You are moving through the worst of it. Let people in. Take the help that is being offered. Things are beginning to improve."
+  },
+  "Six of Pentacles": {
+    "upright": "The flow of generosity — giving and receiving in balance, resources shared freely with those in need. The Six of Pentacles speaks of charity, of fair exchange, of the quiet power of having enough and being willing to share it. Whether you are the giver or receiver right now, both are dignified roles.",
+    "reversed": "Generosity weaponized as control, strings attached to gifts, or receiving help that diminishes rather than empowers. Examine the power dynamics in your material exchanges. True generosity asks for nothing in return."
+  },
+  "Seven of Pentacles": {
+    "upright": "The long view — pausing to assess what a sustained effort has produced before deciding how to proceed. The Seven of Pentacles is the farmer looking at the harvest and wondering: is this what I planted for? Is it worth continuing? Some investments deserve more time. Others need to be released. Take stock honestly.",
+    "reversed": "Impatience undermining long-term investment, giving up just before the harvest, or effort that genuinely isn't producing returns. Examine whether you need to persist with more patience or redirect your energy more wisely. Not everything planted will grow."
+  },
+  "Eight of Pentacles": {
+    "upright": "Diligent, focused, and devoted to the craft. The Eight of Pentacles is the apprentice who shows up every day and does the work — not for glory but because mastery itself is the reward. This is a time for dedicated skill-building, for refinement through repetition, for trusting that the effort compounds.",
+    "reversed": "Perfectionism stalling progress, going through the motions without real engagement, or working hard in the wrong direction. Make sure the craft you are refining is one that genuinely matters to you — effort without meaning is just exhaustion."
+  },
+  "Nine of Pentacles": {
+    "upright": "The elegant self-sufficiency of someone who has built real abundance through their own efforts and now moves through the world with quiet confidence and pleasure. The Nine of Pentacles savors what has been earned — fine things, peaceful solitude, the deep satisfaction of independence. You have more than enough. Enjoy it.",
+    "reversed": "Financial dependency, abundance achieved at too high a personal cost, or the gilded cage of material comfort that masks a deeper emptiness. What have you traded for security? Is there something of equal value that has been sacrificed?"
+  },
+  "Ten of Pentacles": {
+    "upright": "Generational wealth — not just financial, but the deep abundance of a life fully built: family, legacy, community, roots that go down into real earth. The Ten of Pentacles is the long view of prosperity, the inheritance of what was tended with love. Something lasting is being created or celebrated here.",
+    "reversed": "Family conflict over material matters, an inheritance that comes with complications, or the hollowness of material success when the relational foundations are unstable. What good is wealth without the people and meaning that make it worth having?"
+  },
+  "Page of Pentacles": {
+    "upright": "A new practical endeavor approached with fresh eyes and genuine curiosity. The Page of Pentacles is the student of the material world — eager to learn a skill, fascinated by how things work, willing to start at the beginning. Something worth building is taking its first small steps. Tend it carefully.",
+    "reversed": "Procrastination, an idea that stays perpetually in the research phase, or a lack of follow-through on practical commitments. The Page is looking at the coin but not yet working with it. What small practical step would move this from imagination into reality?"
+  },
+  "Knight of Pentacles": {
+    "upright": "Steady, methodical, and utterly reliable — the Knight of Pentacles moves slowly but he finishes everything he starts. There is no glamour here, just the deep satisfaction of work done thoroughly and well. This is the energy of the long game: patient, persistent, and ultimately more powerful than speed.",
+    "reversed": "Stubbornness, excessive caution, or a plodding approach that has become its own obstacle. You may be so committed to the safe and familiar that you are missing opportunities that require a little more risk. Stability is a virtue — but not when it becomes rigidity."
+  },
+  "Queen of Pentacles": {
+    "upright": "Warmth, practicality, and the particular magic of someone who makes every space feel like home. The Queen of Pentacles is deeply nurturing but never losing herself in the nurturing — she knows how to care for others because she knows how to care for herself. She tends what matters: body, home, family, earth.",
+    "reversed": "Self-neglect in service of others, material anxiety that has become consuming, or the opposite — self-indulgence that crowds out genuine care. The Queen's gift is in the balance of giving and receiving. Where has that balance tipped?"
+  },
+  "King of Pentacles": {
+    "upright": "Mastery of the material world — the King of Pentacles has built something real, lasting, and genuinely valuable. He is generous with what he has earned, steady in his leadership, and deeply trustworthy. This is the energy of a person who has turned patience and persistence into genuine abundance. Build wisely. Lead generously.",
+    "reversed": "Materialism at the expense of everything else, a wealthy exterior masking emotional poverty, or stubbornness that has calcified into an inability to adapt. Examine whether the empire you've built is actually serving your life — or whether your life has become entirely in service to the empire."
+  }
+}
